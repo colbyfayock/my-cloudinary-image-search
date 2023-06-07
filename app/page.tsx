@@ -73,6 +73,7 @@ export default async function Home({ searchParams }: { searchParams: any }) {
               <div key={resource.public_id} className="flex w-1/4 flex-wrap">
                 <div className="w-full p-1 md:p-2">
                   <CldImage
+                    className="block h-full w-full rounded-lg object-cover object-center"
                     width={resource.width}
                     height={resource.height}
                     src={resource.secure_url}
