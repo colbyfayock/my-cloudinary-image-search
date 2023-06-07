@@ -70,7 +70,7 @@ export default async function Home({ searchParams }: { searchParams: any }) {
         <div className="-m-1 flex flex-wrap md:-m-2">
           {resources.map((resource: any) => {
             return (
-              <div className="flex w-1/4 flex-wrap">
+              <div key={resource.public_id} className="flex w-1/4 flex-wrap">
                 <div className="w-full p-1 md:p-2">
                   <CldImage
                     width={resource.width}
