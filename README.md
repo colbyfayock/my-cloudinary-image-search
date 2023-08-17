@@ -12,6 +12,6 @@ Demo for tutorial [Image Gallery with Search in Next.js using Cloudinary Node.js
 
 🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
 
-📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+📺 [Subscribe on YouTube](https://kdta.io/MF13e)
 
 ✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
