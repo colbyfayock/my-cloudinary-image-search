@@ -2,6 +2,8 @@
 
 Demo for tutorial [Image Gallery with Search in Next.js using Cloudinary Node.js SDK](https://www.youtube.com/watch?v=kK-XtyDuUD4)
 
+📝 Article: https://kdta.io/n9v4A
+
 📺 YouTube: https://www.youtube.com/watch?v=kK-XtyDuUD4
 
 🚀 Demo: https://my-cloudinary-image-search.vercel.app/
