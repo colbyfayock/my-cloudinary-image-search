@@ -9,9 +9,10 @@ cloudinary.config({
   api_secret: process.env.CLOUDINARY_API_SECRET,
 })
 
-export default async function Home({ searchParams }: { searchParams: any }) {
+export default async function Home(props: { searchParams: Promise<any> }) {
+  const searchParams = await props.searchParams;
   const query = searchParams.query;
-  
+
   let expression = 'folder=my-image-gallery';
 
   if ( query ) {
